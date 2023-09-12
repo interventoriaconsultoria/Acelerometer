@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class LinedTextView extends androidx.appcompat.widget.AppCompatTextView {
     private Rect mRect;
-    private Paint mPaint; 
+    private Paint mPaint;
 
     // we need this constructor for LayoutInflater
     public LinedTextView(Context context, AttributeSet attrs) {
