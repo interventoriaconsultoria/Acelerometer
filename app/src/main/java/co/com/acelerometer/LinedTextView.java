@@ -19,6 +19,11 @@ public class LinedTextView extends androidx.appcompat.widget.AppCompatTextView {
         mPaint = new Paint();
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setColor(0x800000FF);
+
+
+        //bla blab bla
+        int g=0;
+        //tty
     }
 
     @Override
